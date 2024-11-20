@@ -5,4 +5,4 @@ I'm Mikat — a full-stack developer passionate about building scalable web appl
 I also enjoy sharing my development journey and insights on LinkedIn, focusing on practical tips and lessons learned.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/><b> Skills</b><br/>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,prisma,tailwindcss,vite,python,java,docker,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,prisma,tailwindcss,vite,python,java,docker,aws)](https://skillicons.dev)
